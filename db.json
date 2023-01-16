@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "title": "Company s",
+      "description": "Sarah",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Company xYZ",
+      "description": "Tim"
+    },
+    {
+      "id": 4,
+      "title": "Video Production Consulting",
+      "description": "Miriam"
+    },
+    {
+      "title": "Code Writers",
+      "description": "ashJill",
+      "id": 5
+    },
+    {
+      "title": "title hereupdated",
+      "description": "description here",
+      "id": 6
+    },
+    {
+      "title": "netrwt uywdd",
+      "description": "msbdsdjhsehj",
+      "id": 7
+    }
+  ]
+}
