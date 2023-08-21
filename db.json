@@ -1,33 +1,18 @@
 {
   "customers": [
     {
-      "title": "Company s",
-      "description": "Sarah",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "title": "Company xYZ",
-      "description": "Tim"
-    },
-    {
-      "id": 4,
-      "title": "Video Production Consulting",
-      "description": "Miriam"
-    },
-    {
-      "title": "Code Writers",
-      "description": "ashJill",
+      "title": "Title 1",
+      "description": "jhfd djgjdfg kdhgk",
       "id": 5
     },
     {
-      "title": "title hereupdated",
-      "description": "description here",
+      "title": "vuejs",
+      "description": "version 3",
       "id": 6
     },
     {
-      "title": "netrwt uywdd",
-      "description": "msbdsdjhsehj",
+      "title": "wq",
+      "description": "w33rwqewqetwerwe",
       "id": 7
     }
   ]
