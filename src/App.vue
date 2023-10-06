@@ -10,6 +10,9 @@
         <li class="nav-item">
           <router-link to="/add" class="nav-link">Add</router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="/stripe" class="nav-link">Stripe</router-link>
+        </li>
       </div>
     </nav>
 

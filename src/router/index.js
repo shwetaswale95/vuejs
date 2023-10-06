@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 import TutorialsList from "../components/TutorialsList.vue";
 import HelloWorld from "../components/TutorialsList.vue";
 import AddTutorial from "../components/AddTutorial.vue";
+import stripeComponent from "../components/stripe.vue";
 
 Vue.use(VueRouter);
 
@@ -27,6 +28,11 @@ const routes = [
     path: "/edit/:id",
     name: "edit",
     component: AddTutorial,
+  },
+  {
+    path: "/stripe",
+    name: "stripe",
+    component: stripeComponent,
   },
 ];
 

@@ -1,19 +1,19 @@
 {
   "customers": [
     {
-      "title": "Title 1",
-      "description": "jhfd djgjdfg kdhgk",
-      "id": 5
-    },
-    {
       "title": "vuejs",
       "description": "version 3",
       "id": 6
     },
     {
-      "title": "wq",
-      "description": "w33rwqewqetwerwe",
-      "id": 7
+      "title": "update checking",
+      "description": "this will contain the basic CRUD opration",
+      "id": 8
+    },
+    {
+      "title": "tutorial add checking",
+      "description": "this tutorial contain basic CRUD operation using tailwind csssss",
+      "id": 9
     }
   ]
 }
